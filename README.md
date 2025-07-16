@@ -27,16 +27,6 @@ It follows a simple sequence with timing logic using a counter.
 - Transition is controlled via a **4-bit counter**
 - FSM transitions only after the counter reaches zero
 
----
-
-## 🧾 Files Included
-
-| File Name                     | Description                              |
-|------------------------------|------------------------------------------|
-| `Traffic_Light_Controller.v` | Main FSM module (RTL logic)              |
-| `traffic_light_controller_tb.v` | Testbench for simulation                 |
-| `README.md`                  | Project documentation                    |
-| `waveform.png`               | Output waveform screenshot (to be added) |
 
 ---
 
