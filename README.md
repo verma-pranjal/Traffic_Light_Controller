@@ -46,6 +46,10 @@ Simulation was performed using **Vivado XSim**.
 
 ### ✅ Output Screenshot:
 <img width="1904" height="1001" alt="image" src="https://github.com/user-attachments/assets/084f1803-6652-4f35-b0d1-1b03abda08a7" />
+<img width="1903" height="995" alt="image" src="https://github.com/user-attachments/assets/9fcf52e9-676f-4501-8dc9-3fe585fd720b" />
+<img width="1905" height="999" alt="image" src="https://github.com/user-attachments/assets/773dff54-f2f4-478e-a93e-9813523f6eb6" />
+
+
 
 
 *(You can replace `waveform.png` with the actual filename of your screenshot)*
