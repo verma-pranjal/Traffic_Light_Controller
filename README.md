@@ -45,7 +45,8 @@ It follows a simple sequence with timing logic using a counter.
 Simulation was performed using **Vivado XSim**.
 
 ### ✅ Output Screenshot:
-![Waveform Output](waveform.png)
+<img width="1904" height="1001" alt="image" src="https://github.com/user-attachments/assets/084f1803-6652-4f35-b0d1-1b03abda08a7" />
+
 
 *(You can replace `waveform.png` with the actual filename of your screenshot)*
 
